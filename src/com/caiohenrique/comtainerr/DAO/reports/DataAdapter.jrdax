@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<jdbcDataAdapter class="net.sf.jasperreports.data.jdbc.JdbcDataAdapterImpl">
+  <name>BancoCaio</name>
+  <classpath>C:\Users\Felipe\Desktop\ProjetoComteinerr-master\bibliotecas\mysql-connector-j-8.0.32.jar</classpath>
+  <driver>com.mysql.jdbc.Driver</driver>
+  <username>caioh</username>
+  <password>caiohenrique@12345</password>
+  <url>jdbc:mysql://26.185.31.219/comtainer?characterEncoding=utf-8</url>
+  <database></database>
+  <savePassword>true</savePassword>
+  <serverAddress></serverAddress>
+</jdbcDataAdapter>
